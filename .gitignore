@@ -33,3 +33,4 @@ obj/
 .vs/
 *.tar.gz
 /android/
+build/
